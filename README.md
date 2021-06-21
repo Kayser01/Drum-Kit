@@ -1,2 +1,2 @@
 # Drum-Kit
-Just exploring js more
+have fun with this drum kit #learning_js
